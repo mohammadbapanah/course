@@ -174,7 +174,7 @@
 										<li><a href="../client/index.html">خانه 1</a></li>
 										<li><a href="../client/home-2.html">خانه 2</a></li>
 										<li><a href="../client/home-3.html">خانه 3</a></li>
-										<li><a href="../client/home-4.blade.php">خانه 4</a></li>
+										<li><a href="../client/index.blade.php">خانه 4</a></li>
 										<li><a href="../client/home-5.html">خانه 5</a></li>
 										<li><a href="../client/home-6.html">خانه 6</a></li>
 										<li><a href="../client/home-7.html">خانه 7</a></li>
